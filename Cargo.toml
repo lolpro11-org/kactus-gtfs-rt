@@ -29,7 +29,7 @@ gtfs-rt = { git = "https://github.com/lolpro11/gtfs-rt" }
 hyper = { version = "1.4.1", features = ["full"] }
 lock_api = "0.4.12"
 metrohash = "1.0"
-prost = "0.12"
+prost = "0.13"
 protobuf = { version = "3.2.0", features = ["with-bytes"] }
 protobuf-json-mapping = "3.5.0"
 qstring = "0.7"
