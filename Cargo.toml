@@ -26,7 +26,7 @@ csv = "1.3"
 #etcd = "0.9.0"
 futures = "0.3.30"
 gtfs-rt = { git = "https://github.com/lolpro11/gtfs-rt" }
-hyper = { version = "1.4.1", features = ["full"] }
+hyper = { version = "1.5.0", features = ["full"] }
 lock_api = "0.4.12"
 metrohash = "1.0"
 prost = "0.11"
